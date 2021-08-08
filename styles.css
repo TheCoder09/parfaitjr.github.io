@@ -461,6 +461,11 @@ img{
     justify-items: center;
   }
 }
+@media screen and (max-width: 768px){
+  .home__img{
+    margin-top: 15px;
+  }
+}
 
 @media screen and (min-width: 1024px){
   .bd-grid{
