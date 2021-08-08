@@ -462,8 +462,8 @@ img{
   }
 }
 @media screen and (max-width: 768px){
-  .home__img{
-    margin-top: 35px;
+  .home__img img{
+    margin-top: 15px;
   }
 }
 
